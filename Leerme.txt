@@ -1,0 +1,2 @@
+Crear base de datos. con SQL Server StudenDB
+Configurar cadena de conexión en el .json del proyecto.
